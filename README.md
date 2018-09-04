@@ -1,1 +1,1 @@
-[Link](https://aaizhan.github.io/memory-game)
+[Simple Memory Game](https://aaizhan.github.io/memory-game)
